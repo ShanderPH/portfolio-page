@@ -5,10 +5,10 @@ import '@fontsource/roboto';
 let theme = createTheme({
     palette: {
       primary: {
-        main: '#333333',
+        main: '#FAFAFA',
       },
       secondary: {
-        main: '#FFFFFF',
+        main: '#333333',
       },
     },
     typography: {
